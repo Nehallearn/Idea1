@@ -7,6 +7,7 @@ public class FirstSample {
         System.out.println("Hello");
         System.out.println("Update hello");
         System.out.println("New hello");
+        System.out.println("For second branch only");
     }
 
 
